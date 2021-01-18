@@ -1,0 +1,1 @@
+# Full-registration-for-validation-in-java-script-and-php-
